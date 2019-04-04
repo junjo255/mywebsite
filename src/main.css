@@ -2,28 +2,92 @@ body {
     background-color: #0A192F;
 }
 
-.phraseSoon {
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: 'Poppins', sans-serif;   
-    font-weight: 700; 
-    font-size: 80px;
-    color: rgb(230, 241, 255);
 
+@media (min-width:1486px){
+
+    .phraseSoon {
+        position: absolute;
+        box-sizing: border-box;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: 'Poppins', sans-serif;   
+        font-weight: 700; 
+        font-size: 80px;
+        color: rgb(230, 241, 255);
+    }
+    
+    .phraseWeb {
+        position: absolute;
+        box-sizing: border-box;
+        top: 47%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: 'Poppins', sans-serif;   
+        font-size: 35px;
+        color: rgb(230, 241, 255);
+    
+    }
 }
 
 
+@media screen and (min-width:931px) and (max-width:1485px){
 
+    .phraseWeb {
+        position: absolute;
+        box-sizing: border-box;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: 'Poppins', sans-serif; 
+        text-align: center; 
+        font-size: 25px;
+        color: rgb(230, 241, 255);
+    
+    }
 
-.phraseWeb {
-    position: absolute;
-    top: 46%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: 'Poppins', sans-serif;   
-    font-size: 35px;
-    color: rgb(230, 241, 255);
+    .phraseSoon {
+        position: absolute;
+        box-sizing: border-box;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: 'Poppins', sans-serif;   
+        text-align: center;
+        font-weight: 700; 
+        font-size: 55px;
+        color: rgb(230, 241, 255);
+    
+    }
 
+}
+
+@media screen and (min-width:0px) and (max-width:930px){
+
+    .phraseWeb {
+        position: absolute;
+        box-sizing: border-box;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: 'Poppins', sans-serif; 
+        text-align: center; 
+        font-size: 20px;
+        color: rgb(230, 241, 255);
+    
+    }
+
+    .phraseSoon {
+        position: absolute;
+        box-sizing: border-box;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: 'Poppins', sans-serif;   
+        text-align: center;
+        font-weight: 700; 
+        font-size: 50px;
+        color: rgb(230, 241, 255);
+    
+    }
 }
