@@ -1,17 +1,29 @@
 body {
-    background-color: #09192F;
+    background-color: #0A192F;
+}
+
+.phraseSoon {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Poppins', sans-serif;   
+    font-weight: 700; 
+    font-size: 80px;
+    color: rgb(230, 241, 255);
+
 }
 
 
-.logo {
-    /* position: absolute; */
-    /* top: 50%;
-    left: 50%; */
-    /* transform: translate(-50%, -50%); */
-    /* width: 100px; */
-    /* max-width: 70%; */
-}
 
-/* svg {
-    stroke-dasharray:50px;
-} */
+
+.phraseWeb {
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Poppins', sans-serif;   
+    font-size: 35px;
+    color: rgb(230, 241, 255);
+
+}
