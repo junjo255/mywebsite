@@ -30,4 +30,7 @@ const LogoPage = () => (
     </div>
 )
 
+
+
+
 export default LogoPage
