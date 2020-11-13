@@ -2,8 +2,6 @@ import React, { Component } from 'react'
 
 import LogoPage from './components/LogoPage.jsx'
 import Countdown from './components/Countdown.jsx'
-// import PdfViewer from './components/PdfViewer.jsx'
-
 
 export class App extends Component {
   render() {
@@ -16,8 +14,6 @@ export class App extends Component {
         
         <div className="phraseSoon">starts in</div>
         <Countdown date={`2022-11-21T00:00:00`} />
-        {/* <PdfViewer /> */}
-       
       </div>
     )
   }
