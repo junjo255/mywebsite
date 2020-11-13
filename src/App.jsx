@@ -12,9 +12,9 @@ export class App extends Component {
         
         <LogoPage />
 
-        <div className="phraseWeb">website getting</div>
+        <div className="phraseWeb">2022 FIFA World Cup</div>
         
-        <div className="phraseSoon">ready to launch in</div>
+        <div className="phraseSoon">starts in</div>
         <Countdown date={`2022-11-21T00:00:00`} />
         {/* <PdfViewer /> */}
        
