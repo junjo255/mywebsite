@@ -15,7 +15,7 @@ export class App extends Component {
         <div className="phraseWeb">website getting</div>
         
         <div className="phraseSoon">ready to launch in</div>
-        <Countdown date={`2022-11-21-T00:00:00`} />
+        <Countdown date={`2022-11-21T00:00:00`} />
         {/* <PdfViewer /> */}
        
       </div>
