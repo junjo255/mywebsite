@@ -4,8 +4,8 @@
   "description": "",
   "main": "webpack.config.js",
   "engines": {
-    "npm": "^8.19.2",
-    "node": "^16.4.0"
+    "npm": "8.19.2",
+    "node": "16.4.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
