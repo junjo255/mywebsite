@@ -10,153 +10,153 @@
     animation: fill 1.5s ease forwards 2.5s;
 }
 
-#logoSvg path:nth-child(1){
-    stroke-dasharray:  214;
+#logoSvg path:nth-child(1) {
+    stroke-dasharray: 214;
     stroke-dashoffset: 214;
     animation: line-anim 2s ease forwards;
 }
 
-#logoSvg path:nth-child(2){
-    stroke-dasharray:  283.73;
+#logoSvg path:nth-child(2) {
+    stroke-dasharray: 283.73;
     stroke-dashoffset: 283.73;
     animation: line-anim 2s ease forwards 0.3s;
 }
 
-#logoSvg path:nth-child(3){
-    stroke-dasharray:  283.78;
+#logoSvg path:nth-child(3) {
+    stroke-dasharray: 283.78;
     stroke-dashoffset: 283.78;
     animation: line-anim 2s ease forwards 0.6s;
 }
 
-#logoSvg path:nth-child(4){
-    stroke-dasharray:  214.9;
+#logoSvg path:nth-child(4) {
+    stroke-dasharray: 214.9;
     stroke-dashoffset: 214.9;
     animation: line-anim 2s ease forwards 0.9s;
 }
 
-#logoSvg path:nth-child(5){
-    stroke-dasharray:  268;
+#logoSvg path:nth-child(5) {
+    stroke-dasharray: 268;
     stroke-dashoffset: 268;
     animation: line-anim 2s ease forwards 1.2s;
-} 
+}
 
 
-#logoSvg path:nth-child(6){
-    stroke-dasharray:  138.49;
+#logoSvg path:nth-child(6) {
+    stroke-dasharray: 138.49;
     stroke-dashoffset: 138.49;
     animation: line-anim 2s ease forwards 0.9s;
 }
 
 
-#logoSvg path:nth-child(7){
-    stroke-dasharray:  120.2;
+#logoSvg path:nth-child(7) {
+    stroke-dasharray: 120.2;
     stroke-dashoffset: 120.2;
     animation: line-anim 2s ease forwards 0.2s;
 }
 
-#logoSvg path:nth-child(8){
-    stroke-dasharray:  87.96;
+#logoSvg path:nth-child(8) {
+    stroke-dasharray: 87.96;
     stroke-dashoffset: 87.96;
     animation: line-anim 2s ease forwards 0.6s;
 }
 
 
-#logoSvg path:nth-child(9){
-    stroke-dasharray:  87.09;
+#logoSvg path:nth-child(9) {
+    stroke-dasharray: 87.09;
     stroke-dashoffset: 87.09;
     animation: line-anim 2s ease forwards 0.9s;
 }
 
 
-#logoSvg path:nth-child(10){
-    stroke-dasharray:  168.17;
+#logoSvg path:nth-child(10) {
+    stroke-dasharray: 168.17;
     stroke-dashoffset: 168.17;
     animation: line-anim 2s ease forwards 1.2s;
 }
 
-#logoSvg path:nth-child(11){
-    stroke-dasharray:  172.17;
+#logoSvg path:nth-child(11) {
+    stroke-dasharray: 172.17;
     stroke-dashoffset: 172.17;
     animation: line-anim 2s ease forwards 1.5s;
 }
 
 
-#logoSvg path:nth-child(12){
-    stroke-dasharray:  100;
+#logoSvg path:nth-child(12) {
+    stroke-dasharray: 100;
     stroke-dashoffset: 100;
     animation: line-anim 2s ease forwards 1.8s;
 }
 
-#logoSvg path:nth-child(13){
-    stroke-dasharray:  149.3;
+#logoSvg path:nth-child(13) {
+    stroke-dasharray: 149.3;
     stroke-dashoffset: 149.3;
     animation: line-anim 2s ease forwards 2.1s;
 }
 
-#logoSvg path:nth-child(14){
-    stroke-dasharray:  130;
+#logoSvg path:nth-child(14) {
+    stroke-dasharray: 130;
     stroke-dashoffset: 130;
     animation: line-anim 2s ease forwards 2.4s;
 }
 
-#logoSvg path:nth-child(15){
-    stroke-dasharray:  127.88;
+#logoSvg path:nth-child(15) {
+    stroke-dasharray: 127.88;
     stroke-dashoffset: 127.88;
     animation: line-anim 2s ease forwards 2.4s;
 }
 
-#logoSvg path:nth-child(16){
-    stroke-dasharray:  199.7;
+#logoSvg path:nth-child(16) {
+    stroke-dasharray: 199.7;
     stroke-dashoffset: 199.7;
     animation: line-anim 2s ease forwards 2.4s;
 }
 
-#logoSvg path:nth-child(17){
-    stroke-dasharray:  149.35;
+#logoSvg path:nth-child(17) {
+    stroke-dasharray: 149.35;
     stroke-dashoffset: 149.35;
     animation: line-anim 2s ease forwards 2.1s;
 }
 
-#logoSvg path:nth-child(18){
-    stroke-dasharray:  117.88;
+#logoSvg path:nth-child(18) {
+    stroke-dasharray: 117.88;
     stroke-dashoffset: 117.88;
     animation: line-anim 2s ease forwards 1.8s;
 }
 
-#logoSvg path:nth-child(19){
-    stroke-dasharray:  149.34;
+#logoSvg path:nth-child(19) {
+    stroke-dasharray: 149.34;
     stroke-dashoffset: 149.34;
     animation: line-anim 2s ease forwards 1.5s;
 }
 
-#logoSvg path:nth-child(20){
-    stroke-dasharray:  149.35;
+#logoSvg path:nth-child(20) {
+    stroke-dasharray: 149.35;
     stroke-dashoffset: 149.35;
     animation: line-anim 2s ease forwards 1.2s;
 }
 
-#logoSvg path:nth-child(21){
-    stroke-dasharray:  111;
+#logoSvg path:nth-child(21) {
+    stroke-dasharray: 111;
     stroke-dashoffset: 111;
     animation: line-anim 2s ease forwards 0.9s;
 }
 
-#logoSvg path:nth-child(22){
-    stroke-dasharray:  138.49;
+#logoSvg path:nth-child(22) {
+    stroke-dasharray: 138.49;
     stroke-dashoffset: 138.49;
     animation: line-anim 2s ease forwards 0.6s;
 }
 
 
-#logoSvg path:nth-child(23){
-    stroke-dasharray:  124.29;
+#logoSvg path:nth-child(23) {
+    stroke-dasharray: 124.29;
     stroke-dashoffset: 124.29;
     animation: line-anim 2s ease forwards 0.3s;
 }
 
 @keyframes line-anim {
     to {
-        stroke-dashoffset : 0;
+        stroke-dashoffset: 0;
     }
 }
 
@@ -180,10 +180,22 @@ body {
     background: #0A122A;
 }
 
+#mainContainer {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 500px;
+}
+
+.container {
+    display: flex;
+
+    margin: 5px;
+}
+
 /* Let's style the wrapper in such away that,
 it should always be at the center of the browser */
 .wrapper {
-    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -221,27 +233,27 @@ to align it properly */
 
 /* Now target the specific li classes for styling and use box-shadow effect to border and text-shadow effect
   to icons for glowing effect and use transition property for smooth transition effect. */
-/*facebook*/
-.wrapper ul li:hover.facebook {
+/*linkedin*/
+.wrapper ul li:hover.linkedin {
     border: 5px solid #3b5998;
     box-shadow: 0 0 15px #3b5998;
     transition: all 0.5s ease;
 }
 
-.wrapper ul li:hover .fa-facebook {
+.wrapper ul li:hover .fa-linkedin {
     color: #3b5998;
     text-shadow: 0 0 15px #3b5998;
     transition: all 0.5s ease;
 }
 
-/*twitter*/
-.wrapper ul li:hover.twitter {
+/*github*/
+.wrapper ul li:hover.github {
     border: 5px solid #00aced;
     box-shadow: 0 0 15px #00aced;
     transition: all 0.5s ease;
 }
 
-.wrapper ul li:hover .fa-twitter {
+.wrapper ul li:hover .fa-github {
     color: #00aced;
     text-shadow: 0 0 15px #00aced;
     transition: all 0.5s ease;
@@ -289,33 +301,37 @@ to align it properly */
 
 /* media queries */
 
-@media screen and (max-width: 640px){
+@media screen and (max-width: 640px) {
     .wrapper {
         width: 350px;
     }
-    .wrapper ul li{
+
+    .wrapper ul li {
         margin-top: 10px;
     }
-    .wrapper ul li.google{
+
+    .wrapper ul li.google {
         margin-left: 60px;
     }
 }
 
 
-@media screen and (max-width: 340px){
+@media screen and (max-width: 340px) {
     .wrapper {
         width: 150px;
     }
-    .wrapper ul li{
-        margin:15px;
+
+    .wrapper ul li {
+        margin: 15px;
     }
-    .wrapper ul li.google{
+
+    .wrapper ul li.google {
         margin-left: 15px;
     }
 }
 
 /* youtube link */
-.youtube{
+.youtube {
     position: fixed;
     bottom: 10px;
     right: 10px;
@@ -326,7 +342,7 @@ to align it properly */
     border-radius: 5px;
 }
 
-.youtube a{
+.youtube a {
     text-decoration: none;
     color: #fff;
     text-transform: capitalize;
