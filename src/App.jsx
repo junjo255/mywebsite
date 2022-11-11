@@ -8,22 +8,20 @@ export class App extends Component {
         return (
             <div id="mainContainer">
 
-                <div className="container">
+                <div id="container">
                     <LogoPage/>
-                </div>
 
-                <div className="container">
                     <div className="wrapper">
                         <ul>
                             <li className="linkedin">
-                                <a href="#">
+                                <a href="https://www.linkedin.com/in/jun-jo/">
                                     <i
                                         className="fa fa-linkedin fa-2x"
                                         aria-hidden="true"/>
                                 </a>
                             </li>
                             <li className="github">
-                                <a href="#">
+                                <a href="https://github.com/junjo255">
                                     <i
                                         className="fa fa-github fa-2x"
                                         aria-hidden="true"/>
@@ -31,14 +29,13 @@ export class App extends Component {
                             </li>
                         </ul>
                     </div>
-                </div>
 
-                <div className="container">
                     <div className="phraseWeb">2022 FIFA World Cup</div>
 
                     <div className="phraseSoon">starts in</div>
                     <Countdown date={`2022-11-21T00:00:00`}/>
                 </div>
+
             </div>
         )
     }
