@@ -1,3 +1,3 @@
 # [START app_yaml]
-runtime: nodejs16
+runtime: nodejs18
 # [END app_yaml]
