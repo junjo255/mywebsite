@@ -13,7 +13,20 @@ module.exports = {
         test : /\.jsx?$/,
         exclude: /node_modules/,
         use: {
-          loader : 'babel-loader'
+          loader: 'babel-loader',
+          options: {
+            /**
+             * From the docs: When set, the given directory will be used
+             * to cache the results of the loader. Future webpack builds
+             * will attempt to read from the cache to avoid needing to run
+             * the potentially expensive Babel recompilation process on each run.
+             */
+            cacheDirectory: true,
+            presets: [
+              "@babel/preset-env",
+              "@babel/preset-react"
+            ],
+          },
         }
       },
       {
@@ -22,7 +35,11 @@ module.exports = {
       },
       {
         test: /\.(jpe?g|png|gif|woff|woff2|eot|ttf|svg)(\?[a-z0-9=.]+)?$/,
-        loader: 'url-loader?limit=100000' }
+        loader: 'url-loader',
+        options: {
+          limit: 10000,
+        },
+      }
     ]
     
   },
