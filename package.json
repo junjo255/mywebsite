@@ -1,6 +1,6 @@
 {
   "name": "junjowebsite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "webpack.config.js",
   "engines": {
@@ -9,9 +9,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/index.js",
+    "start": "npm run build && node server/index.js",
     "react-dev": "webpack -d --watch",
     "server-dev": "nodemon server/index.js",
+    "clean": "npm cache clean --force",
     "build": "webpack",
     "stop": "node server/index.js"
   },
