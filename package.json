@@ -4,13 +4,13 @@
   "description": "",
   "main": "webpack.config.js",
   "engines": {
-    "npm": "8.19.2",
-    "node": "16.4.0"
+    "npm": "9.5.0",
+    "node": "18.18.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run build && node server/index.js",
-    "react-dev": "webpack -d --watch",
+    "start": "node server/index.js",
+    "react-devd": "webpack -d --watch",
     "server-dev": "nodemon server/index.js",
     "clean": "npm cache clean --force",
     "build": "webpack",
